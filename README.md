@@ -12,4 +12,6 @@ Utilizarei este espaço para me organizar e compartilhar meus projetos!
 
 📫@00001090890205sp@al.educacao.sp.gov.br 📫
 
+OBS: Depois eu atualizo e coloco meus projetos, mas por enquanto será isso! 🙃
+
 ![](https://media1.tenor.com/m/nQI--D8_vb0AAAAC/holding-hands-walking-together.gif)

@@ -1,16 +1,15 @@
-## Hi there 👋
+🖤 Hello there!🖤
 
-<!--
-**JuliaFM07/JuliaFM07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante da plataforma [Alura](https://www.alura.com.br) ! Lá estou me desenvolvendo na linguagem JavaScript.
+
+Utilizarei este espaço para me organizar e compartilhar meus projetos!
+
+
+### Caso queira, você pode entrar em contato comigo, pelo email abaixo:
+
+📫@00001090890205sp@al.educacao.sp.gov.br 📫
+
+![](https://media1.tenor.com/m/nQI--D8_vb0AAAAC/holding-hands-walking-together.gif)
